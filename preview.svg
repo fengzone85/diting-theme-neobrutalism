@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="糖果屋 Candy House · Diting 主题">
+  <rect width="1200" height="630" fill="#FFF3B0"/>
+  <rect x="0" y="0" width="1200" height="630" fill="none" stroke="#111" stroke-width="16"/>
+  <circle cx="1050" cy="110" r="64" fill="#FF6B9A" stroke="#111" stroke-width="10"/>
+  <circle cx="150" cy="540" r="46" fill="#6BE3C7" stroke="#111" stroke-width="10"/>
+  <rect x="96" y="150" width="620" height="120" fill="#FFD84D" stroke="#111" stroke-width="10"/>
+  <text x="128" y="232" font-family="'Plus Jakarta Sans', 'PingFang SC', sans-serif" font-size="78" font-weight="800" fill="#111">糖果屋</text>
+  <text x="100" y="340" font-family="'Plus Jakarta Sans', sans-serif" font-size="52" font-weight="700" fill="#111">Candy House</text>
+  <text x="100" y="404" font-family="'JetBrains Mono', monospace" font-size="26" fill="#333">Neo-Brutalism theme for Diting</text>
+  <rect x="100" y="452" width="330" height="72" fill="#111"/>
+  <text x="126" y="500" font-family="'JetBrains Mono', monospace" font-size="28" fill="#FFF3B0">short: neobrutalism</text>
+  <g transform="translate(760,170)">
+    <rect x="18" y="18" width="360" height="300" fill="#111"/>
+    <rect x="0" y="0" width="360" height="300" fill="#FFF" stroke="#111" stroke-width="12"/>
+    <rect x="24" y="26" width="312" height="46" fill="#FFD84D" stroke="#111" stroke-width="8"/>
+    <rect x="24" y="96" width="146" height="84" fill="#FF6B9A" stroke="#111" stroke-width="8"/>
+    <rect x="190" y="96" width="146" height="84" fill="#6BE3C7" stroke="#111" stroke-width="8"/>
+    <rect x="24" y="204" width="312" height="64" fill="#111"/>
+    <rect x="40" y="222" width="180" height="10" fill="#FFF3B0"/>
+    <rect x="40" y="242" width="120" height="10" fill="#FFF3B0"/>
+  </g>
+</svg>
